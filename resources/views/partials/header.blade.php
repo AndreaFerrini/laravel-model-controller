@@ -1,12 +1,5 @@
 <header>
     <nav>
-        <ul>
-            <li>
-                <a href=""></a>
-            </li>
-            <li>
-                <a href=""></a>
-            </li>
-        </ul>
+        <h1 class="text-center">La lista film da te scelta:</h1>
     </nav>
 </header>
